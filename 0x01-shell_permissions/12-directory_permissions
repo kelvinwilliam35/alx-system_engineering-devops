@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 751 root@57b491801277
+mkdir -m 751 my_dir
